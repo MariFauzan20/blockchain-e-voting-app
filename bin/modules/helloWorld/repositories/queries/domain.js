@@ -1,6 +1,6 @@
 class HelloWorld {
     async initial() {
-        return 'hello world asdasdasdas';
+        return 'hellooooo';
     }
 
     async datascience() {
