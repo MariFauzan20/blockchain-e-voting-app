@@ -1,10 +1,10 @@
 class HelloWorld {
     async initial() {
-        return 'hello world';
+        return 'hello world asdasdasdas';
     }
 
     async datascience() {
-        return 'data sciencce';
+        return 'data sciencce topik blockchain';
     }
 }
 
